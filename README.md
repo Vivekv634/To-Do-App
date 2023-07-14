@@ -1,6 +1,6 @@
 ## 📃 To-Do List App
 This is a web application that can store all the tasks you have to do throughout the day. It is a beginner-friendly project that teaches you how JavaScript works.
-You can checkout the App from [here](https://vivekv634.github.io/To-Do-List-App/).
+You can check out the App from [here](https://vivekv634.github.io/To-Do-List-App/).
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekv634/To-Do-List-App?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vivekv634/To-Do-List-App?style=for-the-badge)
@@ -19,7 +19,7 @@ https://github.com/Vivekv634/To-Do-List-App/assets/77199174/77ee68ee-11ab-4b93-8
 To use this App on your computer, you will need [VS Code](https://code.visualstudio.com/download) or any other code editor.
 
 ```bash
-https://github.com/Vivekv634/Calculator.git
+https://github.com/Vivekv634/To-Do-List-App.git
 ```
 Paste the above line in the **Source Control Repositories** section under the **Source Control** Panel in VS Code.
 
