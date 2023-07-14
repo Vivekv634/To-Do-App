@@ -3,7 +3,8 @@ This is a web application that can store all the tasks you have to do throughout
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekv634/To-Do-List-App?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vivekv634/To-Do-List-App?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/vivekv634/To-Do-List-App?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)
+
 
 ## 🪄 App Preview
 https://github.com/Vivekv634/To-Do-List-App/assets/77199174/77ee68ee-11ab-4b93-8171-3f013f276f19
