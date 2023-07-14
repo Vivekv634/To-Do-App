@@ -1,5 +1,6 @@
 ## 📃 To-Do List App
 This is a web application that can store all the tasks you have to do throughout the day. It is a beginner-friendly project that teaches you how JavaScript works.
+You can checkout the App from [here](https://vivekv634.github.io/To-Do-List-App/).
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekv634/To-Do-List-App?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/vivekv634/To-Do-List-App?style=for-the-badge)
